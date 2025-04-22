@@ -19,7 +19,7 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mcq-generator-backend.git
+git clone https://github.com/mitesh21jun/mcq-generator-backend.git
 cd mcq-generator-backend
 ```
 
